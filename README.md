@@ -13,5 +13,4 @@ I'm learning Python and Web Development. This is my first GitHub repo.
 - Python Basics
 - Git & GitHub
 
-## Connect with me
-linkedin.com/in/pallavi-bharti-a38827419
+[Connect with me on LinkedIn](https://linkedin.com/in/pallavi-bharti-a38827419)
